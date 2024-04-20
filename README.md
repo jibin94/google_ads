@@ -7,4 +7,4 @@
 * Rewarded ads : Rewarded ads are ads that users have the option of interacting with in exchange for in-app rewards.
 
 ### Note
-- Always test with test ads.When building and testing your apps, make sure you use test ads rather than live, production ads. Failure to do so can lead to suspension of your account.
+- Always test with test ads. When building and testing your apps, make sure you use test ads rather than live, production ads. Failure to do so can lead to suspension of your account.
